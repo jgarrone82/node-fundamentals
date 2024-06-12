@@ -12,7 +12,7 @@
   "author": "Jorge Ariel Garrone <jorge.garrone@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "gulp": "^4.0.2",
+    "gulp": "^5.0.0",
     "gulp-server-livereload": "^1.9.2"
   }
 }
